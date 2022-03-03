@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarWarsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prolog_light">The light side of the Force, also known as Ashla by ancient Force-sensitives on Tython, or simply the Force, was the side of the Force aligned with honesty, compassion, mercy, self-sacrifice, and other positive emotions. . For the most part, the Jedi simply referred to it as the Force.</string>
+
+    <string name="prolog_dark">The dark side of the Force, called Bogan or Boga by the ancient forerunners of the Jedi, is the primary tool of the Sith Lords and Dark Jedi, and the surreal enemy of the Jedi Order. Unlike the Light Side of the Force, Dark Side users use their emotions, positive or negative, to make the Force flow through them. If the Light Side is associated with harmony and healing, the Dark Side is associated with conflict and destruction. Very few of those who enter the Dark Side can ever leave it, as the temptation of the quick and easy power it bestows is difficult to resist.</string>
+    <string name="light_force">Force Light</string>
+    <string name="dark_force">Dark side of the Force</string>
+</resources>

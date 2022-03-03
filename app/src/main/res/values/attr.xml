@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="style">
+        <attr name="backgroundAppColor" format="color"/>
+        <attr name="bottomBarAppColor" format="color"/>
+        <attr name="textAppColor" format="color"/>
+        <attr name="iconAppColor" format="color"/>
+        <attr name="spaceAppColor" format="color"/>
+        <attr name="sideAppColor" format="color"/>
+        <attr name="whiteAppColor" format="color"/>
+        <attr name="drawerAppColor" format="color"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.3859375" />
+        <entry key="app/src/main/res/drawable/background_detail.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/drawable/background_home.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/drawable/background_home_card.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/drawable/background_menu.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/drawable/background_progress.xml" value="0.2859375" />
+        <entry key="app/src/main/res/drawable/background_view.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/drawable/button_selected.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/drawable/button_unselected.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/drawable/radial_gradient.xml" value="0.26666666666666666" />
+        <entry key="app/src/main/res/drawable/round_only_top.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/drawable/select_background.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/drawable/thumb_style.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/drawable/track_style.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/drawable/unselected_background.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/activity_launch.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/fragment_categories.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/fragment_change_theme.xml" value="0.75" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/layout/item_categorie.xml" value="0.9" />
+        <entry key="app/src/main/res/layout/item_categories.xml" value="0.9" />
+        <entry key="app/src/main/res/layout/item_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_item_search.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_sub_detail.xml" value="0.9" />
+        <entry key="app/src/main/res/layout/progresss_dialog.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow_app">#D50000</color>
+    <color name="orange_app">#f5bda5</color>
+    <color name="appBlue">#1B81FF</color>
+    <color name="appYellow">#FFD600</color>
+    <color name="appPink">#D175B7</color>
+    <color name="appGreen">#00C853</color>
+    <color name="appRed">#D50000</color>
+    <color name="independence">#495867</color>
+    <color name="uclablue">#577399</color>
+    <color name="paleAqua">#bdd5ea</color>
+    <color name="textFoot">#333333</color>
+    <color name="spacer">#B0B0B0</color>
+    <color name="backgroundDark">#151414</color>
+    <color name="darkBlue">#314570</color>
+    <color name="blue">#0b1354</color>
+    <color name="purple">#a155b9</color>
+    <color name="purpleApp">#8307AB</color>
+    <color name="yellow2">#EDA700</color>
+    <color name="orange">#F4511E</color>
+    <color name="whiteAlpha">#E6FFFFFF</color>
+    <color name="darkBackground">#282830</color>
+    <color name="bottonBarPrimeColor">#D8150037</color>
+    <color name="bottonBarSecColor">#CD3E2D54</color>
+    <color name="bottonBarColorLight">#FDEDFA</color>
+    <color name="bottonBarColorDark">#353333</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="drawerLight">#99FFFFFF</color>
+    <color name="drawerDark">#80000000</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#fff</color>
+
+</resources>
