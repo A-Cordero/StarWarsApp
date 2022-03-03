@@ -5,7 +5,7 @@
 
 App con tematica Star Wars creada para el reto mensual organizado por [Mouredev](https://github.com/mouredev/Monthly-App-Challenge-2022)
 
-[Apk Demo ](https://github.com/A-Cordero/StarWarsApp/tree/master/app/src/main/res/raw#:~:text=starwarsWikiDemo.apk)
+[Apk Demo ](https://github.com/A-Cordero/StarWarsApp/raw/master/app/src/main/res/raw/starwarsWikiDemo.apk)
 
 ## Requisitos 🚀
 
