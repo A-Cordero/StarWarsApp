@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">StarWarsApp</string>
+    <string name="app_name">StarWarsWiki</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="prolog_light">The light side of the Force, also known as Ashla by ancient Force-sensitives on Tython, or simply the Force, was the side of the Force aligned with honesty, compassion, mercy, self-sacrifice, and other positive emotions. . For the most part, the Jedi simply referred to it as the Force.</string>
