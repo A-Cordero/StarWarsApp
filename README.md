@@ -2,6 +2,8 @@
 
 App con tematica Star Wars creada para el reto mensual organizado por Mouredev
 
+[Apk Demo ](https://drive.google.com/file/d/1SbQsDLwB8wtIWbV5hAG6NEKO21cN1AQz/view?usp=sharing)
+
 ## Requisitos 🚀
 
  - Usa el API https://swapi.dev/
