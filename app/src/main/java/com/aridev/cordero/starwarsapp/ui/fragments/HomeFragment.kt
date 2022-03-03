@@ -66,7 +66,7 @@ class HomeFragment : Fragment() {
 
     private fun setListeners() {
         binding.btnGithub.setOnClickListener {
-            requireContext().openUrlLink("https://github.com/A-Cordero")
+            requireContext().openUrlLink("https://github.com/A-Cordero/StarWarsApp")
         }
         binding.btnEnter.setOnClickListener {
             requireActivity().supportFragmentManager.beginTransaction()

@@ -12,6 +12,7 @@
         <entry key="app/src/main/res/drawable/background_view.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/drawable/button_selected.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/drawable/button_unselected.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.37604166666666666" />
         <entry key="app/src/main/res/drawable/radial_gradient.xml" value="0.26666666666666666" />
         <entry key="app/src/main/res/drawable/round_only_top.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/drawable/select_background.xml" value="0.35572916666666665" />
@@ -35,6 +36,8 @@
         <entry key="app/src/main/res/layout/item_item_search.xml" value="0.33" />
         <entry key="app/src/main/res/layout/item_sub_detail.xml" value="0.9" />
         <entry key="app/src/main/res/layout/progresss_dialog.xml" value="0.5" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_ari.xml" value="0.1" />
       </map>
     </option>
   </component>
