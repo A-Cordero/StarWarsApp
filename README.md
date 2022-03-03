@@ -1,5 +1,7 @@
 # StarWarsApp
 
+
+(https://raw.githubusercontent.com/A-Cordero/StarWarsApp/master/app/src/main/res/drawable/asset_rd.png)
 App con tematica Star Wars creada para el reto mensual organizado por Mouredev
 
 [Apk Demo ](https://drive.google.com/file/d/1SbQsDLwB8wtIWbV5hAG6NEKO21cN1AQz/view?usp=sharing)
